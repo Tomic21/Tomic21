@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tomic21
-- 👀 I’m interested in automation of complex tasks.
+- 👀 I’m interested in automation of tasks.
 - 🌱 I’m currently learning .NET Framewrork
 - 📫 You can reach me on karlo_tom@hotmail.com ...
 
